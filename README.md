@@ -75,4 +75,4 @@ dart run android_16kb_patcher:check path/to/your/custom_folder
 To ensure the Android OS does not try to extract and compress the libraries incorrectly, ensure your `AndroidManifest.xml` includes `android:extractNativeLibs="true"` inside the `<application>` tag.
 
 ## Acknowledgements
-Inspired by the Python implementation from the community (syafiyft), rewritten entirely in Dart for seamless integration into Flutter developer workflows without requiring Python.
+Based on the original Python implementation by [syafiyft/android-16kb-fix](https://github.com/syafiyft/android-16kb-fix). Rewritten in Dart so Flutter developers can use it without installing Python.
