@@ -32,7 +32,7 @@ Add it as a dev dependency in your `pubspec.yaml`:
 
 ```yaml
 dev_dependencies:
-  android_16kb_patcher: ^1.1.2
+  android_16kb_patcher: ^1.1.3
 ```
 
 ## Usage

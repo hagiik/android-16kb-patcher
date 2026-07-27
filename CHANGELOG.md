@@ -1,3 +1,16 @@
+
+## 1.1.3
+
+- Fix Stable Version & Docs.
+
+## 1.1.2
+
+- Fix Stable Version & Docs.
+
+## 1.1.1
+
+- Fix Bug.
+
 ## 1.1.0
 
 - Added `check` command to verify 16KB alignment status of all `.so` files.
@@ -6,7 +19,7 @@
 
 ## 1.0.3
 
-- Fix bug: string interpolation not rendering variable correctly in print output.
+- Fix bug: string interpolation nhttps://x.com/xxibgfiyot rendering variable correctly in print output.
 
 ## 1.0.2
 
