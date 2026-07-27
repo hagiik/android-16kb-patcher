@@ -1,4 +1,8 @@
 
+## 1.1.4
+
+- Added `example/` to comply with pub.dev package guidelines.
+
 ## 1.1.3
 
 - Fix Stable Version & Docs.
