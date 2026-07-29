@@ -1,3 +1,6 @@
+## 1.1.5
+
+- Fixed package metadata to correctly connect to GitHub.
 
 ## 1.1.4
 

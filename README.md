@@ -4,7 +4,7 @@ A simple, fast, and automated Dart CLI tool to permanently patch Android native 
 
 This tool acts as a lifesaver for developers encountering Google Play's strict **16 KB memory page sizes** requirement (enforced for Android 15+) who rely on legacy third-party vendor SDKs or precompiled `.so` files that cannot be easily updated.
 
-> **⚠️ Peringatan:**
+> **⚠️ Warning:**
 > **Always keep a backup of your original `.so` files before running this tool.** This tool modifies `.so` files in place — once patched, the changes are permanent. If something goes wrong, you'll need the originals to restore them.
 >
 > This project is still under active development. While it has been tested and works on several production apps, use it at your own risk. The author is not responsible for any issues that may arise from using this tool.
@@ -32,7 +32,7 @@ Add it as a dev dependency in your `pubspec.yaml`:
 
 ```yaml
 dev_dependencies:
-  android_16kb_patcher: ^1.1.4
+  android_16kb_patcher: ^1.1.5
 ```
 
 ## Usage
